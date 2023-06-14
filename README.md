@@ -1,4 +1,4 @@
-# sahada2_app
+# Sahada
 
 A new Flutter project for Mobile Programming 2 lesson.
 Name the porjcet is Sahada App
