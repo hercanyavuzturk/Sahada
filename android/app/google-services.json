@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021896421465",
+    "project_id": "sahada-app",
+    "storage_bucket": "sahada-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021896421465:android:184109c1d8431656c9c148",
+        "android_client_info": {
+          "package_name": "com.example.sahada2_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021896421465-gle5cqm65stb2tjtli6kmhjcncpigvoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi6GCwvIPaORw4zreOftNUnkqGlKtnMRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021896421465-gle5cqm65stb2tjtli6kmhjcncpigvoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
