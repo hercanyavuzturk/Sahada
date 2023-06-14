@@ -1,6 +1,6 @@
 # sahada2_app
 
-A new Flutter project for Software Engineering lesson.
+A new Flutter project for Mobile Programming 2 lesson.
 Name the porjcet is Sahada App
 ## Getting Started
 
